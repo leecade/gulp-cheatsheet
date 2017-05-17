@@ -21,7 +21,7 @@
     "coffee-script": "*",
     "event-stream": "*",
     "gulp": "*",
-    "gulp-sketch": "*",
+    "gulp-sketch": ">=1.0.4",
     "gulp-rename": "*"
   }
 }
