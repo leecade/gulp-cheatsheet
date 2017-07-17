@@ -18,7 +18,7 @@
   "author": "Tsutomu Kawamura <tsutomu@librize.com>",
   "license": "CC-BY-SA 4.0",
   "devDependencies": {
-    "coffee-script": "*",
+    "coffee-script": ">=1.12.7",
     "event-stream": "*",
     "gulp": "*",
     "gulp-sketch": "*",
