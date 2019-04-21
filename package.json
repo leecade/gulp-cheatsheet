@@ -20,7 +20,7 @@
   "devDependencies": {
     "coffee-script": "*",
     "event-stream": "*",
-    "gulp": "*",
+    "gulp": ">=4.0.1",
     "gulp-sketch": "*",
     "gulp-rename": "*"
   }
