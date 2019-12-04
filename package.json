@@ -22,6 +22,6 @@
     "event-stream": "*",
     "gulp": "*",
     "gulp-sketch": "*",
-    "gulp-rename": "*"
+    "gulp-rename": ">=2.0.0"
   }
 }
